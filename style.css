@@ -7,12 +7,12 @@ h2{
 #link-gatitu{
     width: 30px;
 }
-#link-gatin{
+#link-gatitu{
     font-size: 20px;
     color: fuchsia;
     text-decoration: none;
 }
-#link-gatin:hover{
+#link-gatitu:hover{
     font-size: 30px;
     color: rgb(255, 115, 0);
     text-decoration: double;
