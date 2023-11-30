@@ -4,3 +4,16 @@ h2{
 #img-deus{
     border: 2px blueviolet dotted;
 }
+#link-gatitu{
+    width: 30px;
+}
+#link-gatitu{
+    font-size: 20px;
+    color: fuchsia;
+    text-decoration: none;
+}
+#link-gatitu:hover{
+    font-size: 30px;
+    color: rgb(255, 115, 0);
+    text-decoration: double;
+}
